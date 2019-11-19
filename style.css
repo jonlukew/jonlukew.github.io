@@ -111,7 +111,7 @@ h5,
 h6 {
    font-weight: normal;
 }
-p,li {
+p {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.5;
@@ -219,6 +219,11 @@ pre {
 .site-tagline a:visited { color: #90D4C5; }
 .site-tagline a:hover {
     color: #2c2c2c;
+}
+
+th, td {
+    padding: 15px;
+    border: 1px solid black;
 }
 /*=================================*/
 /* Language Styles
@@ -1044,9 +1049,9 @@ nav[role="navigation"] {
     .page-desc {
         padding: 60px;
     }
-    .page-desc {
+    /*.page-desc {
         width: 75%;
-    }
+    }*/
     .page-desc h1,
     .page-desc h2,
     .page-desc h3{
@@ -1271,7 +1276,6 @@ nav[role="navigation"] {
     }
     .site-tagline {
         margin-bottom: 100px;
-        width: 75%;
     }
     .site-tagline p { 
         font-size: 48px;
