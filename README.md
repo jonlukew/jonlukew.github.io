@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 jonlukew-github.io
 ==================
 
