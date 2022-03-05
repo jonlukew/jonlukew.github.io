@@ -3,9 +3,9 @@
 This website contains various links for various project I am currently working on.
 
 * [Xbox 360 Modding](xbox360Modding.md)
+* [Virtual Pinball Stuff](vpinball.md)
 
 {% comment %}
-* [List of Jetbrains Plugins](jetbrainsPlugins.md)
 * [Python Information](pythonStuff.md)
 * [Text Editors & IDEs](textEditorsAndIdes.md)
 * [Useful Markdown Stuff](usefulMarkdownStuff.md)
