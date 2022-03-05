@@ -11,7 +11,7 @@
 ## Major Frenchy
 * [Addressable LED (RGB)](https://www.youtube.com/watch?v=dWaGLqg5s50)
   * [Written Guide](https://majorfrenchy.ca/addressable-led/)
-* []()
+* [Gear Motor (Virtual Pinball)](https://www.youtube.com/watch?v=j6o5fRiqQGg)
 
 
 {% include_relative footer.md %}
