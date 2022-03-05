@@ -8,4 +8,10 @@
 * [How to make a virtual pinball cabinet](https://www.youtube.com/watch?v=JCGUQQAC3vA)
 * [Design and draw your virtual pinball cabinet](https://www.youtube.com/watch?v=APAG74I7g0M)
 
+## Major Frenchy
+* [Addressable LED (RGB)](https://www.youtube.com/watch?v=dWaGLqg5s50)
+  * [Written Guide](https://majorfrenchy.ca/addressable-led/)
+* []()
+
+
 {% include_relative footer.md %}
