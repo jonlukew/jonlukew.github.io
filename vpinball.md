@@ -13,5 +13,8 @@
   * [Written Guide](https://majorfrenchy.ca/addressable-led/)
 * [Gear Motor (Virtual Pinball)](https://www.youtube.com/watch?v=j6o5fRiqQGg)
 
+## OTher
+* [$100 Ultra Low Budget Mini Virtual Pinball! (Arnold J. Rimmer)](https://www.youtube.com/watch?v=jVHkaD42C18)
+
 
 {% include_relative footer.md %}
