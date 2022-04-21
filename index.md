@@ -4,7 +4,7 @@ This website contains various links for various project I am currently working o
 
 * [Virtual Pinball Stuff](vpinball)
 * [Wordle Variants](wordle-variants)
-
+* [PicoGuitar (Raspberry Pi Pico Mod for Wii Guitar Hero Guitar)](https://github.com/4ntsu/PicoGuitar)
 {% comment %}
 * [Xbox 360 Modding](xbox360Modding)
 * [Text Editors & IDEs](textEditorsAndIdes)
