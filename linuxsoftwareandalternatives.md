@@ -45,3 +45,5 @@ If a given software is missing from this list it is either: a) Not available on 
 
 ## Other Software of Note
 - [Winboat](https://www.winboat.app/) (Can allow for the seemless running of Windows desktop apps via the use of a Windows Virtual Machine)
+
+{% include_relative footer.md %}
