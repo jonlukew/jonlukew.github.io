@@ -1,0 +1,39 @@
+- Visual Studio Code - Native App - https://code.visualstudio.com/Download
+- Parsec - Alternative Required - https://github.com/ClassicOldSong/Apollo AND https://moonlight-stream.org/ (Can also use standard Steam In-Home Streaming as well)
+- Proton Suite
+    - Proton Mail/Calendar - Available as .rpm - https://proton.me/support/set-up-proton-mail-linux
+    - Proton Pass - https://proton.me/pass/download/linux
+    - Proton VPN - Available as Desktop App and CLI - https://protonvpn.com/support/linux-vpn-setup
+    - Proton Drive
+    - Proton Calendar
+- Firefox - Native App
+- Google Chrome - Native App - https://www.google.com/chrome/?platform=linux OR Available as Flatpak
+- DRM Content (Netflix and Other Streaming Services)
+- Todoist - Available as Flatpak
+- Microsoft Office/Microsoft 365 - Run via Winboat
+- Blockers
+    - Cold Turkey Blocker - No Alternative Available
+    - Freedom - No Alternative Available
+- Voicemeeter - https://github.com/theRealCarneiro/pulsemeeter
+- GameVault - Not Required as it is designed to work primarily for Windows games
+- Playnite - https://pegasus-frontend.org/ (Actually a full blown front-end for launching all games; similar to Emulation Station)
+- OneDrive (May not be required) - https://abraunegg.github.io/ (Offline file functionality is missing however) OR (possibly) run via Winboat
+- TIDAL - https://github.com/Mastermindzh/tidal-hifi OR https://www.strawberrymusicplayer.org/ (Unclear if this actually allows for streaming directly from TIDAL; may require manual downloading of songs to function)
+- MEGA.nz - https://mega.io/desktop
+- RustDesk - Native App - https://rustdesk.com/docs/en/client/
+- Docker - Native App - https://docs.docker.com/engine/install
+- Elgato Stream Deck - https://github.com/nekename/OpenDeck
+- Steam - Native App - Included with Bazzite and available as Flatpak
+- qBitTorrent - Native App - Available as Flatpak or direct download from: https://sourceforge.net/projects/qbittorrent/files/qbittorrent-appimage/
+- Discord - Native App - Available as Flatpak
+- Epic Game Launcher - Heroic Games Launcher (Fortnite still will not run of course due to anti-cheat)
+- Logitech G Software - https://github.com/pwr-Solaar/Solaar OR https://github.com/libratbag/piper
+- Sonarr
+- Emby
+- NzbGet
+- 
+
+
+Other Software of Note
+- Moonlight for Switch - https://github.com/XITRIX/Moonlight-Switch
+- Winboat (Can allow the running of non-native apps via a seemless Windows VM) https://www.winboat.app/
